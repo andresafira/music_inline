@@ -1,0 +1,40 @@
+bpm[64]bpm
+title[Golden Hour]title
+key[f# c# g# d#]key
+song[
+	qscol[f g b c> b g f g b c> b g
+	f g b c> b g f g b c> b g
+	e g b c> b g e g b c> b g
+	e g b c> b g e g b c> b g
+	e f a b a f e f a b a f
+	e f a b a f e f a b a f
+	d e f g f e d e f g f e
+	d e f g f e d e f g f e
+	g< g< g< g< g< f<] g>_qcol p_qsmin
+	down qscol[g g g g] g_qcol qscol[g g g g] g_qcol
+	qscol[g g g g g f] g>>_qcol p_qsmin
+	qscol[g g g g] g_qcol qscol[g g g g] g_qcol
+	qscol[g g g g g f] f>>_qcol p_qsmin
+	qscol[g g g g g f] f>>_qcol p_qsmin
+	qscol[g g g g] g_qcol qscol[(g d>) (g d>) (g d>) (g d>)] qcol[(g d>)]
+	qcol[g g] qscol[g f] qcol[e g b]
+]song
+
+song[
+	down qscol[a c e> c e> c a c e> c e> c
+	a c e> c e> c a c e> c e> c
+	g b d> b d> b g b d> b d> b
+	g b d> b d> b gb b d> b d> b
+	f a c a c a f a c a c a
+	f a c a c a f a c a c a
+	e g b g b g e g b g b g
+	e g b g b g e g b g b g
+	(a<< a<) c e c e c (a<< a<) c e c e c
+	(a<< a<) c e c e c (a<< a<) c e c e c
+	(g<< g<) b< d b< d b< (g<< g<) b< d b< d b<
+	(g<< g<) b< d b< d b< (gb<< gb<) b< d b< d b<
+	(a<< a<) g< c g< c g< (a<< a<) g< c g< c g<
+	(a<< a<) g< c g< c g< (a<< a<) g< c g< c g<
+	(e<< e<) g< b< g< b< g< (e<< e<) g< b< g< b< g<
+	(e<< e<) g< b< g< b< g< (e<< e<) g< b< g< b< g<]
+]song

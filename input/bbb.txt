@@ -1,0 +1,128 @@
+bpm[ 157 ]bpm
+title[ Bling Bang Bang Born ]title
+
+song[
+    volup_20
+    col[c> a c> a] scol[c> b c> d>] col[c> a
+    c> a c> d>] scol[eb> d> c> d>] col[c> a
+    c>] scol[a c> d> eb> e> g> (eb> a>) g> e> eb>] col[(a d>)] scol[c> d>]
+    qcol[(f a e>) (f a e>) (f a e>) (f a e>) (f a e>) (f a e>)] col[(e g# b e>) p a b
+    c> p c> d>] scol[e> f> e> d>] col[e> d>
+    c> p c> d>] scol[e> f> e> d#>] col[e> b>]
+    scol[a> g#>] g>_col scol[f#> f>] e>_col scol[e> f> e> d#>] col[e> a
+    e p] p_min.
+    col[(e a c>)] voldown_20 scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p] smin.[(e g# b)]
+    volup_20 col[(c c>) c>] scol[c> a] col[f e d>] scol[d#> e> f> d#>]
+    col[e> e>] scol[e> c>] col[a g# e] scol[f e d# e]
+    col[c> c>] scol[c> a] col[f e d>] scol[d#> e> f> d#>]
+    col[e> e] scol[e f] col[e e e>] scol[e> e>] col[e>
+    e> e>] scol[e> e>] col[f> e> p e>>] p_smin.
+    e>>_col p_smin. e>>_col scol[d#> e>]
+    f>_col b_scol c>_col g#_scol a_col e_scol f_col scol[c# d f a c>]
+    d>_col g#_scol a_col e_scol col[f e p e>] scol[a a]
+    a_col scol[a a a a] a_col a_col scol[a a] a_col scol[a a]
+    a_col scol[a a a a] col[a a g#] scol[f e e e]
+    a_col scol[a a a a] a_col a_col scol[a a a a a a]
+    a_col scol[a a a a] col[a a (e> e>>) (e> e>>) e>
+    a>] scol[a> a> a> a>] col[a> a>] scol[e> e>] e>_col scol[e> e>]
+    col[e>> e>>] scol[e>> e>>] col[f>> (e> e>>)] p_scol d>_col. col[(c> e>)
+    a] scol[a a] col[a e a] scol[a a] col[a e
+    a] scol[a a] col[a a a p up (a a>) p voldown_20
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)]
+    min[(c e a)] down volup_20 col[p a b c>]
+    col.[(e e>) (c c>)] col[(c c>)] col.[(d d>) (b< b)] col[(b< b)]
+    col.[(c c>) (a< a)] col[(a< a)] smin[(b< b) e>>>]
+    up col.[(e e>) (c c>)] col[(c c>)] col.[(d d>) (b< b)] col[(b< b)]
+    col.[(c c>) (a< a)] col[(a< a) (b< b) e>>] e>>_smin
+    down col.[(e e>) (c c>)] col[(c c>)] col.[(d d>) (b< b)] col[(b< b)]
+    col.[(c c>) (a< a)] col[(a< a)] smin[(b< b)] col[e d]
+    c_smin col[e d] smin[c b<]
+    b<_col a<_smin. col[d#>>~e>> e>>] smin[e>>
+    (e e>) (e e>)] scol[(e e>)] col[(d d>) (c c>)] scol[c> c> b]
+    col[(a< a) (b< b) (c c>) (d d>) (e e>) (e e>)] smin[(e e>)
+    (e e>) (e e>)] scol[(e e>)] col[(d d>) (c c>)] scol[(c c>)] col[(b< b)
+    (a< a) (c c>) (b< b) (g#< g#)] smin[(a< a) p
+    (e e>) (e e>)] scol[(e e>)] col[(d d>) (c c>)] scol[c> c> b]
+    col[(a< a) (b< b) (c c>) (d d>) (e e>) (e e>)] smin[(e e>)
+    (e e>) (e e>)] scol[(e e>)] col[(d d>) (c c>)] scol[(c c>)] col[(b< b)
+    (a< a) (c c>) (b< b) (g#< g#)] smin[(a< a) p]
+    min[p (a< c e g# b)] voldown_20
+]song
+
+
+
+
+
+
+song[
+    down col[(a c> e>) p (a c> e>) p (g# c> e>) p (g# c> e>) p
+    (g c> e>) p (g c> e>) p (f# c> e>) p (f# c> e>) p]
+    sb[(f c> e>)]
+    qcol[(d a c>) (d a c>) (d a c>) (d a c>) (d a c>) (d a c>)] col[(e g# b) p f# g
+    (a c> e>) p (a c> e>) p (g# c> e>) p (g# c> e>) p
+    (g c> e>) p (g c> e>) p (f# c> e>) p (f# c> e>) p
+    (f c> e>) p (f c> e>) p (f c> e>) p (f c> e>) p]
+    scol[(e g# b) d#] col[e f d e] scol[d# e f g# b f>]
+    sb[p
+    p]
+    col[p a<] scol[e e] e_smin e_col scol[e e] e_col volup_27
+    smin[e c b< e
+    a<] col[p f] smin[e p]
+    col.[a< a<] f_col smin[e p
+    a<] col[p f] smin[e p]
+    col.[a< g#<] col[f< e<] e<_smin.
+    voldown_27 col[(e a)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (f a c>)] scol[p (f a c>)] col[p (f a d>) p (b< d a) (b< d a) (b< d f)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (f a c>)] scol[p (f a c>)] col[p (f a d>) p (b< d a) (b< d a) (b< d f)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (f a c>)] scol[p (f a c>)] col[p (f a d>) p (b< d a) (b< d a) (b< d f)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (b< e g#) (b< e g#) (b< e)
+    (e a c>)] scol[p (e a c>)] col[p (e a d>) p (e g# b) (e g# b) (e g#)
+    (f a c>)] scol[p (f a c>)] col[p (f a d>) p (b< d a) (b< d a) (b< d f)
+    (a c>)] scol[p (a c>)] col[p (a c>)] p_min volup_27
+    col[(a e>) d#> e> d#> (e e>) d#> e> e>]
+    smin[(a e>) c> (e c>)] col[e d]
+    smin[(a< c)] col[e d] smin[(e< c) d
+    (a< e)] col[f e] smin[d p]
+    col[(a e>) d#> e> d#> (e e>) d#> e> e>]
+    smin[(a e>) c> (e c>)] col[e d]
+    smin[(a< c)] col[e d] smin[(e< c) b<]
+    col[(b<< b<)] a<_smin. p_min voldown_10
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) g< (g<  b< e<)] smin[(g<  b< e<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    col.[a< (a< c e)] col[(a< c e) g< (g<  b< e<)] smin[(g<  b< e<)]
+    col.[a< (a< c e)] col[(a< c e) e< (e< g#< b<)] smin[(e< g#< b<)]
+    min[p (a<< a<)]
+]song
